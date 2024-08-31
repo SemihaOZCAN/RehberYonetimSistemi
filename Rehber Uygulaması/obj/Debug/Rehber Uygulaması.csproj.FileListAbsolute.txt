@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\bin\Debug\Rehber Uygulaması.exe.config
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\bin\Debug\Rehber Uygulaması.exe
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\bin\Debug\Rehber Uygulaması.pdb
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber_Uygulaması.Form1.resources
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber_Uygulaması.Properties.Resources.resources
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber Uygulaması.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber Uygulaması.exe
+C:\Users\Semiha\Desktop\Rehber Uygulaması\Rehber Uygulaması\obj\Debug\Rehber Uygulaması.pdb

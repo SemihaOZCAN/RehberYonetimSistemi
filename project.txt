@@ -1,0 +1,7 @@
+Telefon Rehberi Uygulaması
+**************************************
+Bu uygulama, Bir telefon rehberi yönetim sistemidir. 
+Kullanıcılar, rehberlerine kişi ekleyebilir, var olan kişileri güncelleyebilir, silebilir ve kayıtlı kişilerin bilgilerini listeleyebilirler. 
+Veritabanı işlemleri SQL Server ile gerçekleştirilmekte olup, güvenli veri işleme için parametrik sorgular kullanılmaktadır. 
+Ayrıca, kullanıcı dostu bir arayüz ile işlemler sırasında meydana gelebilecek hatalar uygun mesajlarla kullanıcıya bildirilmektedir.
+ Uygulama, basit ama etkili bir şekilde telefon rehberi yönetimini kolaylaştırır.
